@@ -1,6 +1,6 @@
 （DeepLで翻訳したため、意味に不正確な点がある可能性があります）
 # TIMS構文作成電卓
-[ダウンロード](https://github.com/njfdCRH1A/TIMS-Excel/raw/refs/heads/main/TIMS_tool_v2.xlsx 「ダウンロード」)
+[ダウンロード](https://github.com/njfdCRH1A/TIMS-Excel/raw/refs/heads/main/TIMS_tool_v2.xlsx"ダウンロード")
 ## ファイル概要
 M電時刻表編集エリア
 ![](readme/M_Staff.png)
