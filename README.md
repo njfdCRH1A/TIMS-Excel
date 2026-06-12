@@ -1,4 +1,7 @@
 # TIMS生成器
+[日本語readme](Readme_JP.md "日本語readme")
+
+[下载地址](https://github.com/njfdCRH1A/TIMS-Excel/raw/refs/heads/main/TIMS_tool_v2.xlsx "下载地址")
 ## 文件概览
 M电时刻表编辑区
 ![](readme/M_Staff.png)
